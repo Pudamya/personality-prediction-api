@@ -1,22 +1,22 @@
 {
   "best_model": "Gradient Boosting Classifier",
-  "test_accuracy": 0.9172413793103448,
-  "test_f1_weighted": 0.9172482677435584,
-  "test_precision_weighted": 0.9183244621503485,
-  "test_recall_weighted": 0.9172413793103448,
-  "test_roc_auc_extrovert": 0.9598267409205579,
+  "test_accuracy": 0.9120689655172414,
+  "test_f1_weighted": 0.9120728863538586,
+  "test_precision_weighted": 0.9132975914869421,
+  "test_recall_weighted": 0.9120689655172414,
+  "test_roc_auc": 0.9537162644580893,
   "confusion_matrix_labels": [
     "Introvert",
     "Extrovert"
   ],
   "confusion_matrix": [
     [
-      265,
-      17
+      264,
+      18
     ],
     [
-      31,
-      267
+      33,
+      265
     ]
   ],
   "features": [
