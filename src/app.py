@@ -86,7 +86,7 @@ class PersonalityInput(BaseModel):
 def root():
     """API info and navigation links."""
     return {
-        "message":          "Personality Prediction API is running ✅",
+        "message":          "Personality Prediction API is running",
         "docs":             "/docs",
         "predict_endpoint": "/predict",
         "health_endpoint":  "/health",
