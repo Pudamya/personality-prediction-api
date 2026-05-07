@@ -1,1 +1,5 @@
-/model_training.ipynb
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
