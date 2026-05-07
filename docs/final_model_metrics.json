@@ -1,0 +1,36 @@
+{
+  "best_model": "Gradient Boosting Classifier",
+  "test_accuracy": 0.9172413793103448,
+  "test_f1_weighted": 0.9172482677435584,
+  "test_precision_weighted": 0.9183244621503485,
+  "test_recall_weighted": 0.9172413793103448,
+  "test_roc_auc_extrovert": 0.9598267409205579,
+  "confusion_matrix_labels": [
+    "Introvert",
+    "Extrovert"
+  ],
+  "confusion_matrix": [
+    [
+      265,
+      17
+    ],
+    [
+      31,
+      267
+    ]
+  ],
+  "features": [
+    "Time_spent_Alone",
+    "Stage_fear",
+    "Social_event_attendance",
+    "Going_outside",
+    "Drained_after_socializing",
+    "Friends_circle_size",
+    "Post_frequency"
+  ],
+  "target": "Personality",
+  "classes": [
+    "Extrovert",
+    "Introvert"
+  ]
+}
